@@ -24,4 +24,4 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 Show case below.
 
-![Show case](https://raw.githubusercontent.com/ttzshawn/vue-custom-keyboard-demo/master/assets/keyboard-demo.png)
+![Show case](https://raw.githubusercontent.com/ttzshawn/vue-custom-keyboard-demo/master/assets/keyboard-demo.jpg)
